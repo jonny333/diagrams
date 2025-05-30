@@ -1,0 +1,4 @@
+diagrams
+google-cloud-platform # For the diagrams[gcp] provider, ensure it's listed or install diagrams[gcp]
+# If your script writes to GCS, add:
+# google-cloud-storage
